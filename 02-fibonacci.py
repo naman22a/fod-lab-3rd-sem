@@ -4,14 +4,13 @@ def fib(n):
     first = 0
     second = 1
 
+    if(n <= 0):
+        return
+
     if(n == 1):
         print(first, end=' ')
         return
-    if(n == 2):
-        print(first, end=' ')
-        print(second, end=' ')
-        return
-    
+
     print(first, end=' ')
     print(second, end=' ')
 
