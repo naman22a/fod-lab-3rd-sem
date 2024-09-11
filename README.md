@@ -18,3 +18,4 @@
     ```
 4. Design a Python function to find the max of three
    numbers.
+5. Design a Python program for creating a random story generator
