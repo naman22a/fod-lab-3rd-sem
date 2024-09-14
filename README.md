@@ -18,3 +18,5 @@
     ```
 4. Design a Python function to find the max of three
    numbers.
+5. Write a program in Python to read a text file and write a text file.
+6. Write a program in Python to implement exception handling.
