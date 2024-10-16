@@ -22,3 +22,4 @@
 7. Design a Python program for creating a random story generator.
 8. Numpy Functions
 9. Create a synthetic dataset(.csv) to work upon and design a python program to read and print that data
+10. Perform Statistics and Data Visualization in python.
