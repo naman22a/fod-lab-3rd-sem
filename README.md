@@ -23,3 +23,4 @@
 8. Numpy Functions
 9. Create a synthetic dataset(.csv) to work upon and design a python program to read and print that data
 10. Perform Statistics and Data Visualization in python.
+11. Design a Python program to implement Linear Regression house price prediction using california_housing in scikit-learn
