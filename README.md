@@ -32,5 +32,10 @@
 
 9. Create a synthetic dataset(.csv) to work upon and design a python program to read and print that data
 10. Perform Statistics and Data Visualization in python.
+    Assume you have a .csv file containing 10 student details along with thier marks in python, java and C language. Perform following operations on it.
+
+-   Print mean, standard deviation, minimum marks, maximum marks, 1st quantile, 3rd quantile, maximum marks in each category.
+-   Plot a histogram plot for each subject.
+
 11. Design a Python program to implement Linear Regression house price prediction using california_housing in scikit-learn
 12. Design a Python program to create a recommender system
